@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.af93d1d9.chunk.css",
+    "main.js": "/static/js/main.ba1f34ef.chunk.js",
+    "main.js.map": "/static/js/main.ba1f34ef.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8d50be84.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8d50be84.js.map",
+    "static/css/2.c363d580.chunk.css": "/static/css/2.c363d580.chunk.css",
+    "static/js/2.6b4a5fe6.chunk.js": "/static/js/2.6b4a5fe6.chunk.js",
+    "static/js/2.6b4a5fe6.chunk.js.map": "/static/js/2.6b4a5fe6.chunk.js.map",
+    "static/js/3.1f65c736.chunk.js": "/static/js/3.1f65c736.chunk.js",
+    "static/js/3.1f65c736.chunk.js.map": "/static/js/3.1f65c736.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.c363d580.chunk.css.map": "/static/css/2.c363d580.chunk.css.map",
+    "static/css/main.af93d1d9.chunk.css.map": "/static/css/main.af93d1d9.chunk.css.map",
+    "static/js/2.6b4a5fe6.chunk.js.LICENSE.txt": "/static/js/2.6b4a5fe6.chunk.js.LICENSE.txt",
+    "static/media/400X400_SPINNING-CHAIR-COMPILED.e9226f20.gif": "/static/media/400X400_SPINNING-CHAIR-COMPILED.e9226f20.gif",
+    "static/media/style.css": "/static/media/poppins-v5-latin-regular.df9fdb2a.woff",
+    "static/media/art1.ccb3b963.png": "/static/media/art1.ccb3b963.png",
+    "static/media/desf1.8c8d69b0.png": "/static/media/desf1.8c8d69b0.png",
+    "static/media/dis1.aa1a74c7.png": "/static/media/dis1.aa1a74c7.png",
+    "static/media/dog-shocked.ad6d6abb.gif": "/static/media/dog-shocked.ad6d6abb.gif",
+    "static/media/empleado1.a314e0b9.png": "/static/media/empleado1.a314e0b9.png",
+    "static/media/evento1.b9ab213e.png": "/static/media/evento1.b9ab213e.png",
+    "static/media/excited-dogs.05ed72af.gif": "/static/media/excited-dogs.05ed72af.gif",
+    "static/media/giphy.9e3bafa8.gif": "/static/media/giphy.9e3bafa8.gif",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
+    "static/media/logo2.7e14b64f.png": "/static/media/logo2.7e14b64f.png",
+    "static/media/model1.df293308.png": "/static/media/model1.df293308.png",
+    "static/media/pav1.39300dbd.png": "/static/media/pav1.39300dbd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d50be84.js",
+    "static/css/2.c363d580.chunk.css",
+    "static/js/2.6b4a5fe6.chunk.js",
+    "static/css/main.af93d1d9.chunk.css",
+    "static/js/main.ba1f34ef.chunk.js"
+  ]
+}
